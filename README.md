@@ -4,7 +4,7 @@ My name is **Muhammad Farhan Pratama**.\
 I'm an **Instrumention of Meteorology, Climatology, and Geophysics Student** in [STMKG](https://stmkg.ac.id/) the part of Indonesian [BMKG](https://www.bmkg.go.id/).\
 I'm still learning many programming languages such as C++, Python, Kotlin, Java, Javascript and many other language.\
 I am fluent in Indonesian, but in English I'm quite able to read, listen, and write, but I am not good at speaking.\
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/farhan-pratama-275299194/) account.\
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/farhan-pratama-275299194/) account.
 
 ### ✨Thank you✨
 
